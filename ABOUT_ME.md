@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bhawvana-9981
+- 👋 Hi, I’m @Bhawvana
 - 👀 I’m interested in Full-stack development.. #React.js, HTML, CSS, JavaScripts, IntellIj, Postman
-- 🌱 I’m currently learning React.js
+- 🌱 Done projects on React.js and Angular Frameworks
 - 💞️ I’m looking to collaborate on Front-End Development
 - 📫 How to reach me: bhawvana377@gmail.com
 - ⚡ Fun fact: Learning stuff is like being in your comfort zone, Hands on practice really tells you how much you have really learnt.
